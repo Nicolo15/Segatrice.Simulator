@@ -1,0 +1,2 @@
+# Segatrice.Simulator
+Progetto Segatrice
